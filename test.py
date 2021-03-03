@@ -1,1 +1,2 @@
-print("礼拜1")
+def test():
+    pass
